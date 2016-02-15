@@ -46,7 +46,10 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Logo</a>
+                <!-- <a class="navbar-brand page-scroll" href="#page-top">Logo</a> -->
+                <a href="#">
+                    <img src="img/logo.jpg">
+                </a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -118,6 +121,14 @@
     </section>
 
     <section id="team">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">The Team</h2>
+                    <hr class="primary">
+                </div>
+            </div>
+        </div>
         <div class="container-fluid">
             <div class="row no-gutter">
                 <div class="col-lg-4 col-sm-6">
@@ -160,36 +171,6 @@
                                 </div>
                                 <div>
                                     MSc (Mobile Telecommunications and Innovation- Strathmore) and Bsc (Information Technology-MMU).
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
-                        <img src="img/portfolio/1.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Phyllis Ogwora
-                                </div>
-                                <div>
-                                    Bsc (Actuarial Science-UoN).
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="#" class="portfolio-box">
-                        <img src="img/portfolio/1.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Douglas Makori
-                                </div>
-                                <div>
-                                    Bsc (Surveying- UoN).
                                 </div>
                             </div>
                         </div>
@@ -294,6 +275,14 @@
 
     
     <section class="no-padding" id="project">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Projects</h2>
+                    <hr class="primary">
+                </div>
+            </div>
+        </div>
         <div class="container-fluid">
             <div class="row no-gutter">
                 <div class="col-lg-4 col-sm-6">
@@ -405,7 +394,7 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">Let's Get In Touch!</h2>
                     <hr class="primary">
-                    <p>Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p>
+                    <p>Want to Partner with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p>
                 </div>
                 <div class="col-lg-4 col-lg-offset-2 text-center">
                     <i class="fa fa-phone fa-3x wow bounceIn"></i>
@@ -415,6 +404,39 @@
                 <div class="col-lg-4 text-center">
                     <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
                     <p><a href="mailto:sustainableenergyfa@gmail.com">sustainableenergyfa@gmail.com</a></p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-12 text-center">
+                                <h2 class="section-heading">Contact</h2>
+                                <hr class="primary">
+                            </div>
+                        </div>
+                    </div>
+
+                    <form>
+                        <div class="form-group">
+                            <input type="text" placeholder="Full Names" class="form-control"></input>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" placeholder="Phone Number" class="form-control"></input>
+                        </div>
+                        <div class="form-group">
+                            <input type="email" placeholder="E-Mail" class="form-control"></input>
+                        </div>
+                        <div class="form-group">
+                            <textarea placeholder="Message" class="form-control"></textarea>
+                        </div>
+
+                        <div class="form-group pull-right">
+                            <button class="btn btn-success">Send</button>
+                        </div>
+                        
+                        
+                    </form>
                 </div>
             </div>
         </div>
