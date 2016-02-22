@@ -422,7 +422,7 @@
                             <textarea placeholder="Message" class="form-control"></textarea>
                         </div>
 
-                        <div class="form-group pull-right">
+                        <div class="form-group">
                             <button class="btn btn-success">Send</button>
                         </div>
                         
