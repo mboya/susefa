@@ -433,6 +433,22 @@
         </div>
     </section>
 
+    <aside class="bg-dark">
+        <div class="container text-center">
+            <div class="call-to-action">
+                <!-- <h2>Free Download at Start Bootstrap!</h2> -->
+                <!-- <a href="#" class="btn btn-default btn-xl wow tada">Download Now!</a> -->
+                <a href="https://www.facebook.com/Sustainable-Energy-Foundation-Africa-SUSEFA-991953724158302/?fref=ts">
+                    <i class="fa fa-6x fa-facebook wow bounceIn text-primary"> /SUSEFA</i>
+                </a>
+                |
+                <a href="">
+                    <i class="fa fa-6x fa-twitter wow bounceIn text-primary"> @SUSEFA_Africa</i>
+                </a>
+            </div>
+        </div>
+    </aside>
+
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 
