@@ -442,7 +442,7 @@
                     <i class="fa fa-6x fa-facebook wow bounceIn text-primary"> /SUSEFA</i>
                 </a>
                 |
-                <a href="">
+                <a href="https://twitter.com/SUSEFA_Africa">
                     <i class="fa fa-6x fa-twitter wow bounceIn text-primary"> @SUSEFA_Africa</i>
                 </a>
             </div>
