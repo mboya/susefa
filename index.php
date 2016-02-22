@@ -46,10 +46,10 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <!-- <a class="navbar-brand page-scroll" href="#page-top">Logo</a> -->
-                <a href="#">
-                    <img src="img/logo.jpg">
-                </a>
+                <a class="navbar-brand page-scroll" href="#page-top">Logo</a>
+                <!-- <a href="#"> -->
+                    <!-- <img src="img/logo.jpg"> -->
+                <!-- </a> -->
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -405,19 +405,10 @@
                     <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
                     <p><a href="mailto:sustainableenergyfa@gmail.com">sustainableenergyfa@gmail.com</a></p>
                 </div>
-            </div>
-            <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-12 text-center">
-                                <h2 class="section-heading">Contact</h2>
-                                <hr class="primary">
-                            </div>
-                        </div>
-                    </div>
-
-                    <form>
+                	<h2 class="section-heading">Contact</h2>
+					<hr class="primary">
+					<form>
                         <div class="form-group">
                             <input type="text" placeholder="Full Names" class="form-control"></input>
                         </div>
