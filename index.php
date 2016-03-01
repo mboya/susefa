@@ -46,10 +46,14 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Logo</a>
-                <!-- <a href="#"> -->
-                    <!-- <img src="img/logo.jpg"> -->
-                <!-- </a> -->
+                <a class="navbar-brand page-scroll" href="#page-top">SUSEFA</a>
+                <div >
+                 <a href="#page-top" > 
+<!--                     <img  class="navbar-brand page-scroll" src="img/logo.png"> -->
+                     
+                 </a> 
+                </div> 
+               
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -92,29 +96,69 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">We've got what you need!</h2>
+                    <h2 class="section-heading">Who Are We?</h2>
                     <hr class="light">
-                    <p class="text-faded">
+                    <p class="text-faded text-justify">
                         Sustainable energy foundation Africa is an International NGO registered in Kenya. It has its headquarters in Nairobi. SUSEFA promotes renewable energy access and energy efficiency for environmental sustainability and betterment of lives.
                     </p>
-                    <!-- <a href="#" class="btn btn-default btn-xl">Get Started!</a> -->
+                    <h2 class="section-heading">Our Vision</h2>
+                     <hr class="light">
+                    <p class="text-faded text-justify"> To enrich lives in Africa through facilitating renewable energy access, efficient energy use and environmental sustainability</p>
+                    <h2 class="section-heading">Our Mission</h2>
+                     <hr class="light">
+                    <p class="text-faded text-justify">SUSEFA seeks to promote sustainable living through societies founded on the efficient use of energy and other resources. Our focus is mainly capacity building in policy and project development at all spheres of government, promoting sustainable strategies, planning and implementation initiatives and implementing practical examples of sustainability thus, promoting the uptake of renewable energy and sustainable energy utilization in Africa.
+                    </p>
+                    <h2 class="section-heading"> Our Core Values:</h2>
+                     <hr class="light">
+                    <p class="text-faded text-justify">
+                    <ul class="list-inline">
+                        <li style="font-size:14px"><i class="glyphicon glyphicon-chevron-right"></i> Resource Efficiency</li>
+                        <li style="font-size:14px"><i class="glyphicon glyphicon-chevron-right"></i> Community Ownership</li>
+                        <li style="font-size:14px"><i class="glyphicon glyphicon-chevron-right"></i> Integrity</li>
+                        <li style="font-size:14px"><i class="glyphicon glyphicon-chevron-right"></i> Professionalism</li>
+                        <li style="font-size:14px"><i class="glyphicon glyphicon-chevron-right"></i> Scalability</li>
+                    </ul>
+                    </p>
                 </div>
                 <hr/>
+            
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">Background</h2>
                     <hr class="light">
+                    <div class="row">
                     <div class="thumbnail col-lg-4 col-sm-6">
-                        <img src="img/hut power.jpg">
+                        <img src="img/hut power.jpg" height="100%">
                     </div>
+                    <div class="col-lg-8 col-sm-6">
+                        <p class="text-faded text-justify">
+Energy access is a prerequisite for development. Indeed, energy is all about education, better health, equality, security and economic development. Children can spend less time on domestic chores and more time in schools instead. Also, they can study after dark and have access to information i.e. TV, radio and computers. Clinics can stay open for longer and offer better services. 
+                        </p>
+                        <p class="text-faded text-justify">Access to modern energy forms creates opportunities for women and girls in form of extra time as they can attend school and pursue work and goals outside home. Energy creates opportunities for people to create businesses, earn a living and feed their families.
+                    </p>
+                    </div>
+                    </div>
+                    
+                    <div class="row">
                     <div class="thumbnail col-lg-4 col-sm-6">
                         <img src="img/reading.jpg">
                     </div>
+                    <div class="col-lg-8 col-sm-6">
+                        <p class="text-faded text-justify">
+Street-lighting offers a chance for economic expansion, since businesses can sell their wares at night. Women are more likely to frequent these businesses since it will be safer for them to leave their homes at night.
+                        </p>
+                    </div>
+                    </div>
+                    
+                    <div class="row">
                     <div class="thumbnail col-lg-4 col-sm-6">
                         <img src="img/street_lighting.png">
                     </div>
-                    <p>
-                        Energy access is a prerequisite for development. Indeed, energy is all about education, better health, equality, security and economic development. Children can spend less time on domestic chores and more time in schools instead. Also, they can study after dark and have access to information i.e. TV, radio and computers. Clinics can stay open for longer and offer better services. Access to modern energy forms creates opportunities for women and girls in form of extra time as they can attend school and pursue work and goals outside home. Energy creates opportunities for people to create businesses, earn a living and feed their families.
-                    </p>
+                    <div class="col-lg-8 col-sm-6">
+                        <p class="text-faded text-justify">
+Unfortunately, a vast majority of the population in Sub-Saharan Africa lack access to electricity and clean cooking fuels. Many deaths are linked to indoor air pollution in households using wood, biomass and coal cooking stoves. This has inspired SUSEFA to help make energy accessible to all in Africa.
+                        </p>
+                    </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -142,9 +186,15 @@
                                 <div>
                                     Bsc (Electrical Engineering Degree- UoN).
                                 </div>
+                                <br>
+                                
+                                <p>Vast experience in electrical energy distribution and transmission, renewable energy, energy efficiency and climate change.
+</p>
                             </div>
                         </div>
                     </a>
+                    <h4 align="center">Japheth Omari - Chairman</h4>
+                    
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#" class="portfolio-box">
@@ -152,18 +202,22 @@
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Evans Onchonga – Secreatary
+                                    Evans Onchonga – Secretary
                                 </div>
                                 <div>
                                     Bsc (Civil and Structural Engineering- UoN).
                                 </div>
+                                <br>
+                                <p>Great experience in the construction industry, green buildings, sustainable urban development, project management and Wind/Solar Energy application in irrigation systems.
+</p>
                             </div>
                         </div>
                     </a>
+                    <h4 align="center">Evans Onchonga – Secretary</h4>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/team/larvinia1.jpg" class="img-responsive" alt="">
+                        <img src="img/team/larvinia.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -172,19 +226,34 @@
                                 <div>
                                     MSc (Mobile Telecommunications and Innovation- Strathmore) and Bsc (Information Technology-MMU).
                                 </div>
+                                <br>
+                                <p>
+                                    Wealth of experience in incorporating ICT tools in agriculture programmes for farmers in bid to enhance crop productivity, curbing wastage in storage and transportation to markets. She is the Team Leader and Lead Developer Mkulima App an award winning application targeting farmers in Kenya.
+</p>
                             </div>
                         </div>
                     </a>
+                    <h4 align="center">Larvinia Onduko – Treasurer</h4>
                 </div>
             </div>
         </div>
+<!--
+        <div class="col-lg-8 col-lg-offset-2 text-center">
+            <p class="text-justify">
+SUSEFA operates in a transparent and inclusive manner in terms of decision making and the development of organizational policies. The organization has a management committee which is comprised of the two directors, and the lead project coordinator. The management committee meets once a month to discuss staffing and organizational issues, including policy development, finances, funding, management matters and marketing.
+            </p>
+            <p class="text-justify">
+The directors meet on a regular basis and oversee the full running of the organization.
+            </p>
+        </div>
+-->
     </section>
 
     <section id="services">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">At Your Service</h2>
+                    <h2 class="section-heading">Our Areas Of Focus</h2>
                     <hr class="primary">
                 </div>
             </div>
@@ -280,6 +349,7 @@
                 <div class="col-lg-12 text-center">
                     <h2 class="section-heading">Projects</h2>
                     <hr class="primary">
+                    <p>SUSEFA's Planned Projects For Current Financial Year.</p>
                 </div>
             </div>
         </div>
@@ -287,7 +357,7 @@
             <div class="row no-gutter">
                 <div class="col-lg-4 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/img/Irrigation.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/solar_panels.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -295,43 +365,48 @@
                                 </div>
                                 <div class="project-name">
                                     <!-- Project Name -->
+                                    1. Scaling current SIDA project ‘Energy Efficiency in Kenya High School to all schools in Kenya.
                                 </div>
                             </div>
                         </div>
                     </a>
+                    <h4 align="center">SIDA project</h4>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/img/Solar.png" class="img-responsive" alt="">
+                         <img src="img/portfolio/Irrigation.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     <!-- Category -->
                                 </div>
                                 <div class="project-name">
-                                    <!-- Project Name -->
+                                    2. Solar Irrigation and Climate Smart agriculture demonstration farm at Kilifi Kenya Galana-Sabaki River delta.
                                 </div>
                             </div>
                         </div>
                     </a>
+                    <h4 align="center">Solar Irrigation, Kilifi</h4>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/img/Solar-irrigation.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/solar.png" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     <!-- Category -->
                                 </div>
                                 <div class="project-name">
-                                    Solar Irrigation and Climate Smart agriculture demonstration farm at Kilifi Kenya Galana-Sabaki River delta.
+                                    3. Awareness campaigns on efficient energy use for households, institutions and industries
                                 </div>
                             </div>
                         </div>
                     </a>
+                    <h4 align="center">Efficient Energy Campaigns</h4>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#" class="portfolio-box">
+                         <img src="img/portfolio/solar_water_supply.jpg" class="img-responsive" alt="">
                         <img src="img/img/solar-panels.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -339,15 +414,16 @@
                                     <!-- Category -->
                                 </div>
                                 <div class="project-name">
-                                    <!-- Project Name -->
+                                    4. Community based Mini-hydro development for rural electrification in Western Kenya
                                 </div>
                             </div>
                         </div>
                     </a>
+                    <h4 align="center">Mini-Hydro Electrification, Western</h4>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/img/Solar water supply.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/solar_panels.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -355,25 +431,28 @@
                                 </div>
                                 <div class="project-name">
                                     <!-- Project Name -->
+                                    5. Organizing an Annual Africa Sustainable Energy Summit
                                 </div>
                             </div>
                         </div>
                     </a>
+                    <h4 align="center">Sustainable Energy Summit</h4>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a href="#" class="portfolio-box">
-                        <img src="img/img/wind solar.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/renewable_summit.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     <!-- Category -->
                                 </div>
                                 <div class="project-name">
-                                    <!-- Project Name -->
+                                    6. Organizing an Annual Renewable Energy (RE) and Energy Efficiency (EE) awareness week that will bring all stakeholders in a week-long event that will encompass RE &amp; EE promotions, exhibitions and awareness campaigns.
                                 </div>
                             </div>
                         </div>
                     </a>
+                    <h4 align="center">Renewable Energy (RE) &amp; Energy Efficiency (EE) Awareness week</h4>
                 </div>
             </div>
         </div>
