@@ -48,9 +48,8 @@
                 </button>
                 <a class="navbar-brand page-scroll" href="#page-top">SUSEFA</a>
                 <div >
-                 <a href="#page-top" > 
-<!--                     <img  class="navbar-brand page-scroll" src="img/logo.png"> -->
-                     
+                 <a href="#page-top" >
+                 
                  </a> 
                 </div> 
                
@@ -103,10 +102,13 @@
                     </p>
                     <h2 class="section-heading">Our Vision</h2>
                      <hr class="light">
-                    <p class="text-faded text-justify"> To enrich lives in Africa through facilitating renewable energy access, efficient energy use and environmental sustainability</p>
+                    <p class="text-faded text-justify"> 
+                    To enrich lives in Africa through facilitating renewable energy access, efficient energy use and environmental sustainability
+                    </p>
                     <h2 class="section-heading">Our Mission</h2>
                      <hr class="light">
-                    <p class="text-faded text-justify">SUSEFA seeks to promote sustainable living through societies founded on the efficient use of energy and other resources. Our focus is mainly capacity building in policy and project development at all spheres of government, promoting sustainable strategies, planning and implementation initiatives and implementing practical examples of sustainability thus, promoting the uptake of renewable energy and sustainable energy utilization in Africa.
+                    <p class="text-faded text-justify">
+                    SUSEFA is committed to eradicate energy poverty in Africa by promoting clean energy access for all and sustainable use of energy. Our focus is mainly planning, development and implementation of practical examples of sustainability in clean energy access and utilization. SUSEFA believes that universal energy access is impossible without supportive policies. Therefore, we emphasize in capacity building in renewable energy policy development at all spheres of government and promoting rational energy use strategies.
                     </p>
                     <h2 class="section-heading"> Our Core Values:</h2>
                      <hr class="light">
@@ -185,10 +187,13 @@ Unfortunately, a vast majority of the population in Sub-Saharan Africa lack acce
                                 </div>
                                 <div>
                                     Bsc (Electrical Engineering Degree- UoN).
+                                    <br/>
+                                    MEng(Energy and Environmental Management in Developing Countries- European University Flensburg)
                                 </div>
                                 <br>
                                 
-                                <p>Vast experience in electrical energy distribution and transmission, renewable energy, energy efficiency and climate change.
+                                <p>
+                                Sustainable Energy Regulation and Policy Making for Africa-UNIDO, Efficient Energy Use and Planning-Life Academy, Introductory Course to Climate Change-UNITAR, Renewable Energy Regulation-IRENA
 </p>
                             </div>
                         </div>
@@ -208,7 +213,8 @@ Unfortunately, a vast majority of the population in Sub-Saharan Africa lack acce
                                     Bsc (Civil and Structural Engineering- UoN).
                                 </div>
                                 <br>
-                                <p>Great experience in the construction industry, green buildings, sustainable urban development, project management and Wind/Solar Energy application in irrigation systems.
+                                <p>
+                                Great experience in project management in the construction industry including hydro-power civil works and construction, wind masts structures and other massive infrastructure projects projects. 
 </p>
                             </div>
                         </div>
@@ -357,7 +363,7 @@ The directors meet on a regular basis and oversee the full running of the organi
             <div class="row no-gutter">
                 <div class="col-lg-4 col-sm-6">
                     <a class="portfolio-box">
-                        <img src="img/portfolio/solar_panels.jpg" class="img-responsive" alt="">
+                        <img src="img/new_portfolio/jambo_village_vanga_solar_mini_grid.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
@@ -365,94 +371,61 @@ The directors meet on a regular basis and oversee the full running of the organi
                                 </div>
                                 <div class="project-name">
                                     <!-- Project Name -->
-                                    1. Scaling current SIDA project ‘Energy Efficiency in Kenya High School to all schools in Kenya.
+                                    
                                 </div>
                             </div>
                         </div>
                     </a>
-                    <h4 align="center">SIDA project</h4>
+                    <h4 align="center">Jambo Village Vanga Solar Minigrid</h4>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a class="portfolio-box">
-                         <img src="img/portfolio/Irrigation.jpg" class="img-responsive" alt="">
+                         <img src="img/new_portfolio/nyangweta_village_mini_hydro_power_project.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     <!-- Category -->
                                 </div>
                                 <div class="project-name">
-                                    2. Solar Irrigation and Climate Smart agriculture demonstration farm at Kilifi Kenya Galana-Sabaki River delta.
+                                    
                                 </div>
                             </div>
                         </div>
                     </a>
-                    <h4 align="center">Solar Irrigation, Kilifi</h4>
+                    <h4 align="center">Nyangweta Village Mini-Hydro Power Project</h4>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a class="portfolio-box">
-                        <img src="img/portfolio/solar.png" class="img-responsive" alt="">
+                        <img src="img/new_portfolio/smart_energy_schools.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     <!-- Category -->
                                 </div>
                                 <div class="project-name">
-                                    3. Awareness campaigns on efficient energy use for households, institutions and industries
+                                    
                                 </div>
                             </div>
                         </div>
                     </a>
-                    <h4 align="center">Efficient Energy Campaigns</h4>
+                    <h4 align="center">Smart-Energy Schools - Energy Efficiency Improvement Project</h4>
                 </div>
                 <div class="col-lg-4 col-sm-6">
                     <a class="portfolio-box">
-                         <img src="img/portfolio/solar_water_supply.jpg" class="img-responsive" alt="">
-                        <img src="img/img/solar-panels.jpg" class="img-responsive" alt="">
+                         <img src="img/new_portfolio/solar_irrigation.jpg" class="img-responsive" alt="">
+                        <!-- <img src="img/img/solar-panels.jpg" class="img-responsive" alt=""> -->
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     <!-- Category -->
                                 </div>
                                 <div class="project-name">
-                                    4. Community based Mini-hydro development for rural electrification in Western Kenya
+                                    
                                 </div>
                             </div>
                         </div>
                     </a>
-                    <h4 align="center">Mini-Hydro Electrification, Western</h4>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box">
-                        <img src="img/portfolio/solar_panels.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    <!-- Category -->
-                                </div>
-                                <div class="project-name">
-                                    <!-- Project Name -->
-                                    5. Organizing an Annual Africa Sustainable Energy Summit
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                    <h4 align="center">Sustainable Energy Summit</h4>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a class="portfolio-box">
-                        <img src="img/portfolio/renewable_summit.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    <!-- Category -->
-                                </div>
-                                <div class="project-name">
-                                    6. Organizing an Annual Renewable Energy (RE) and Energy Efficiency (EE) awareness week that will bring all stakeholders in a week-long event that will encompass RE &amp; EE promotions, exhibitions and awareness campaigns.
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                    <h4 align="center">Renewable Energy (RE) &amp; Energy Efficiency (EE) Awareness week</h4>
+                    <h4 align="center">Solar Irrigation-Climate Smart Agriculture Project-Kilifi</h4>
                 </div>
             </div>
         </div>
