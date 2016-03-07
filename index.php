@@ -458,9 +458,9 @@ The directors meet on a regular basis and oversee the full running of the organi
                     <p><a href="mailto:sustainableenergyfa@gmail.com">sustainableenergyfa@gmail.com</a></p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                	<h2 class="section-heading">Contact</h2>
-					<hr class="primary">
-					<form>
+                    <h2 class="section-heading">Contact</h2>
+                    <hr class="primary">
+                    <form>
                         <div class="form-group">
                             <input type="text" placeholder="Full Names" class="form-control"></input>
                         </div>
