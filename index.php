@@ -170,7 +170,7 @@ Unfortunately, a vast majority of the population in Sub-Saharan Africa lack acce
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">The Team</h2>
+                    <h2 class="section-heading">Executive Team</h2>
                     <hr class="primary">
                 </div>
             </div>
@@ -444,18 +444,20 @@ The directors meet on a regular basis and oversee the full running of the organi
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <h2 class="section-heading">Let's Get In Touch!</h2>
+                    <h2 class="section-heading">Patner With Us</h2>
                     <hr class="primary">
-                    <p>Want to Partner with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p>
+                    <p>Why wait? Join the movement for energy access in Africa. Our future depends on our present actions.  Partner with us to make a difference.</p>
                 </div>
                 <div class="col-lg-4 col-lg-offset-2 text-center">
-                    <i class="fa fa-phone fa-3x wow bounceIn"></i>
-                    <p>Evans Momanyi <br> +254 726 523 777</p>
-                    <p>Japheth Omari <br> +254 720 612 775</p>
+                    <!-- <i class="fa fa-phone fa-3x wow bounceIn"></i> -->
+                    <!-- <p>Evans Momanyi <br> +254 726 523 777</p>
+                    <p>Japheth Omari <br> +254 720 612 775</p> -->
+                    <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+                    <p><a href="mailto:sustainableenergyfa@gmail.com">sustainableenergyfa@gmail.com</a></p>
                 </div>
                 <div class="col-lg-4 text-center">
                     <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                    <p><a href="mailto:sustainableenergyfa@gmail.com">sustainableenergyfa@gmail.com</a></p>
+                    <p><a href="mailto:japhethomari@susefa.org">japhethomari@susefa.org</a></p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">Contact</h2>
